@@ -1,0 +1,51 @@
+.createBody {
+    text-align: center;
+}
+
+.createForm {
+    display: inline-block;
+    text-align: center;
+    margin-top: 100px;
+    width: 400px;
+    background-color: #d2d2da;
+    border-radius: 20px 20px 0 0;
+    padding: 10px 0 5px 0;
+}
+
+.create {
+    margin-top: 10px;
+}
+
+.finish {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.testBody {
+    text-align: center;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+.selections {
+    width: 400px;
+    margin: auto;
+}
+
+.submit {
+    display: inline-block;
+    margin: 20px 0 0 140px;
+}
+.answers {
+    width: 400px;
+    margin: auto;
+}
+.formFinish {
+    width: 400px;
+    background-color: #d2d2da;
+    margin: auto;
+    padding-bottom: 10px;
+    border-radius: 0 0 20px 20px;
+}

@@ -1,0 +1,2 @@
+{"question":"Who wrote ' Mein Kamf ' ?","answer1":"Henry Kissinger","answer2":"Adolf Hitler","answer3":"Zbigniew Brzezinski","answer4":"Niccolo Machiavelli","rightAnswer":"Adolf Hitler"}
+{"question":"the capital of Armenia","answer1":"Gyumri+","answer2":"Yerevan","answer3":"Ani+","answer4":"Vanadzor","rightAnswer":"Yerevan"}
